@@ -1,0 +1,1 @@
+直接枚举两个白棋放哪，然后 flood-fill/BFS/DFS/<del>乱搞</del> 一下。

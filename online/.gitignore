@@ -1,0 +1,11 @@
+# 除了数据中的 in、ans、out 文件，其余文件均不上传至 GitHub
+*.out
+*.in
+*.ans
+!*/data/*.in
+!*/data/*.ans
+*.pyc
+.vscode/*
+.vscode
+*.zip
+*.tar
