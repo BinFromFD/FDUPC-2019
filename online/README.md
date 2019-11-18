@@ -88,6 +88,7 @@ $1 \le a,\ b \le 10^{18}$。
 ![the tetrahedron](tetrahedron.svg)
 
 <center>这是一个四面体</center>
+
 ### 输入格式
 输入数据仅有一行，包含一个非负整数表示时刻 $t$。
 
